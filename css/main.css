@@ -24,7 +24,7 @@ body {
   opacity: 0.8;
 }
 
-.nav-links li {
+.nav-bar .nav-links li {
   width: 15%;
   display: inline;
   padding: 0.5em;
