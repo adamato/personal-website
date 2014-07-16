@@ -29,12 +29,11 @@ li {
   max-width: 1200px;
   margin: 0, auto;
   z-index: 4;
-  position: relative;
 }
 
 .nav-links a {
   text-decoration: none;
-  color: #F87217;
+  color: white;
 }
 
 
