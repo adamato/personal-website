@@ -8,20 +8,31 @@ body {
     width: 100%;
 }
 
-#nav {
+.nav-bar {
+  position: fixed;
+  margin: 0;
   background-color: #458fff;
+  z-index: 3;
   width: 100%;
   height: 20%;
-  text-align: left;
+  opacity: 0.8;
+  text-align: center;
 }
 
-#nav li {
+.nav-bar li {
   width: 15%;
   display: inline-block;
-  padding: 0.2em;
+  padding: 0.5em;
   color: white;
   font-weight: bold;
   font-size: 24px;
+  opacity: 1;
+}
+
+.nav-links {
+  max-width: 1200px;
+  text-align: right;
+  margin: 0 auto;
 }
 
 #home {
