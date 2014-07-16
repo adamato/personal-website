@@ -21,7 +21,7 @@ body {
   padding: 0.8em;
   background-color: gray;
   border: 2px;
-  font: white, 20px;
+  color: white, bold, 12px;
 }
 
 #home {
@@ -33,8 +33,9 @@ body {
   color: #0033FF;
   text-align: center;
   width: 100%;
-  background-color: CC6666;
   margin: 10px;
+  background: url('http://2.bp.blogspot.com/-Kqg07c5CFFA/UNX-ulFzniI/AAAAAAAASeI/1rlj1XR5qBg/s1600/colorblock+chevron+pattern+blue+sky.jpg') repeat;
+  opacity: .9;
 }
 
 #home h1 {
@@ -48,11 +49,11 @@ body {
 #home h3 {
   size: 2.8em;
 }
-
+/*
 #home_content_1 {
   height: 600px;
   background: black;
   background: url('http://2.bp.blogspot.com/-Kqg07c5CFFA/UNX-ulFzniI/AAAAAAAASeI/1rlj1XR5qBg/s1600/colorblock+chevron+pattern+blue+sky.jpg') repeat;
   opacity: .9;
-}
+}*/
 
