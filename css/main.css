@@ -9,6 +9,7 @@ body {
 }
 
 #nav {
+  position:absolute;
   color: #458fff;
   margin-bottom: auto;
   width: 100%;
@@ -25,9 +26,24 @@ body {
   border: black, 10px;
 }
 
+#main {
+  color: blue;
+  padding: 10px;
+}
+
 #main h1 {
+  size: 60px;
+  color: lime green;
+}
+
+#main h2 {
   size: 40px;
-  color: pink;
-  background-color: blue;
+  color: #FF3399;
+  text-align: center;
+}
+
+#main h3 {
+  size: 20px;
+  color: #FFCC33;
 }
 
