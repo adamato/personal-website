@@ -7,7 +7,7 @@ body {
     opacity: 0;
     width: 100%;
 }
-
+/*---------NAVIGATION-----------------*/
 .nav {
   position: fixed;
   margin: 0;
@@ -37,6 +37,10 @@ body {
   
 }
 
+.nav .pull-right {
+    float: right;
+    margin-right: 98px; /*set margin this way in your custom styesheet*/
+  }
 
 #home {
   text-align: center;
