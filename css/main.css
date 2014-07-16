@@ -28,22 +28,20 @@ body {
 
 #main {
   color: #0033FF;
-  padding: 10px;
-  position: absolute;
   text-align: center;
   width: 100%;
-  background-color: #00FFFF;
+  background-color: CC6666;
 }
 
 #main h1 {
-  size: 60px;
+  size: 6.8em;
 }
 
 #main h2 {
-  size: 40px;
+  size: 4.8em;
 }
 
 #main h3 {
-  size: 20px;
+  size: 2.8em;
 }
 
