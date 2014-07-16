@@ -31,10 +31,14 @@ li {
   color: white;
   font-weight: bold;
   font-size: 24px;
-  opacity: 1;
-  text-align: right;
+  text-align: center;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 0, auto;
+}
+
+a {
+  display: block;
+  width: 60px;
 }
 
 #home {
