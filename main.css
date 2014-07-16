@@ -1,14 +1,14 @@
-nav-bar {
+#nav-bar {
   color: turquoise;
   margin-bottom: auto;
 }
 
-nav-link {
+.nav-link {
   color: white;
   background-color: indigo;
 }
 
-h1 {
+#home h1 {
   size: 40px;
   color: pink;
   background-color: blue;
