@@ -12,13 +12,13 @@ body {
   background-color: #458fff;
   width: 100%;
   height: 20%;
-  text-align: center;
+  text-align: left;
 }
 
 #nav li {
   width: 15%;
   display: inline-block;
-  padding: 0.8em;
+  padding: 0.2em;
   color: white;
   font-weight: bold;
   font-size: 24px;
