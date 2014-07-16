@@ -27,8 +27,12 @@ body {
 }
 
 #main {
-  color: blue;
+  color: #0033FF;
   padding: 10px;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  background-color: #00FFFF;
 }
 
 #main h1 {
@@ -39,7 +43,6 @@ body {
 #main h2 {
   size: 40px;
   color: #FF3399;
-  text-align: center;
 }
 
 #main h3 {
