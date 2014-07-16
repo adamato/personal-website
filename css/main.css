@@ -37,6 +37,7 @@ li {
   margin: 0, auto;
   z-index: 4;
   position: relative;
+  text-decoration: none;
 }
 
 
