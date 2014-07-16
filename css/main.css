@@ -19,7 +19,7 @@ body {
   opacity: 0.8;
 }
 
-li {
+.nav-bar li {
   width: 15%;
   height: 50%;
   display: inline;
@@ -31,7 +31,7 @@ li {
   z-index: 4;
 }
 
-.nav-links a {
+.nav-bar a {
   text-decoration: none;
   color: white;
 }
