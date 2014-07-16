@@ -37,13 +37,11 @@ body {
   
 }
 
-.nav span {
-  height: 100px;
-}
-
 .nav .pull-left {
-  float: right;
+  float: left;
   margin: 0px;
+  color: orange;
+  height: 100%;
 }
 
 .nav .pull-right {
@@ -51,18 +49,17 @@ body {
     margin-right: 25px; /*set margin this way in your custom styesheet*/
 }
   
-
 .main {
   text-align: center;
-  height: 100%;
+  position: relative;
+  height: 50px;
 }
 
 .main #home_content_1 {
-  color: #0033FF;
+  background-color: grey;
   text-align: center;
   width: 100%;
   margin: 10px;
-  background: url('http://2.bp.blogspot.com/-Kqg07c5CFFA/UNX-ulFzniI/AAAAAAAASeI/1rlj1XR5qBg/s1600/colorblock+chevron+pattern+blue+sky.jpg') repeat;
   opacity: .9;
 }
 
