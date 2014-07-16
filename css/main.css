@@ -22,7 +22,7 @@ body {
   padding: 0.8em;
   background-color: gray;
   border: 2px;
-  text: white, bold, serif, 20px;
+  font: white, bold, serif, 20px;
 }
 
 #main {
