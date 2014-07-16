@@ -26,20 +26,17 @@ body {
 
 li {
   width: 15%;
+  height: 50%;
   display: inline;
-  padding: 0.5em;
   color: white;
   font-weight: bold;
   font-size: 24px;
   text-align: center;
+  padding-left: auto;
   max-width: 1200px;
   margin: 0, auto;
 }
 
-a {
-  display: block;
-  width: 60px;
-}
 
 #home {
   text-align: center;
