@@ -19,9 +19,9 @@ body {
   text-align: center;
 }
 
-.nav-bar a {
+.nav-bar li {
   width: 15%;
-  display: inline-block;
+  display: inline;
   padding: 0.5em;
   color: white;
   font-weight: bold;
