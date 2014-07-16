@@ -13,7 +13,7 @@ body {
   width: 100%;
   height: 20%;
   text-align: center;
-  
+  position: fixed;
 }
 
 #nav li {
@@ -21,7 +21,8 @@ body {
   display: inline-block;
   padding: 0.8em;
   background-color: gray;
-  border: white 2px;
+  border: 2px;
+  text: white, bold, serif, 20px;
 }
 
 #main {
