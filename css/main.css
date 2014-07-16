@@ -9,9 +9,7 @@ body {
 }
 
 #nav {
-  position: absolute;
-  color: #458fff;
-  margin-bottom: auto;
+  background-color: #458fff;
   width: 100%;
   height: 20%;
   text-align: center;
@@ -19,11 +17,11 @@ body {
 }
 
 #nav li {
-  display: inline;
-  color: white;
-  padding: 10px;
+  width: 15%;
+  display: inline-block;
+  padding: 0.8em;
   background-color: gray;
-  border: black, 10px;
+  border: white 2px;
 }
 
 #main {
@@ -31,7 +29,7 @@ body {
   text-align: center;
   width: 100%;
   background-color: CC6666;
-  margin: 25%;
+  margin: 10px;
 }
 
 #main h1 {
