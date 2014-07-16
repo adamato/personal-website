@@ -7,7 +7,7 @@ body {
     opacity: 0;
     width: 100%;
 }
-/*---------NAVIGATION-----------------*/
+/*---------NAVIGATION BAR-----------------*/
 .nav {
   position: fixed;
   margin: 0;
@@ -37,17 +37,27 @@ body {
   
 }
 
+.nav span {
+  height: 100px;
+}
+
+.nav .pull-left {
+  float: right;
+  margin: 0px;
+}
+
 .nav .pull-right {
     float: right;
-    margin-right: 98px; /*set margin this way in your custom styesheet*/
-  }
+    margin-right: 25px; /*set margin this way in your custom styesheet*/
+}
+  
 
-#home {
+.main {
   text-align: center;
   height: 100%;
 }
 
-#home #home_content_1 {
+.main #home_content_1 {
   color: #0033FF;
   text-align: center;
   width: 100%;
@@ -56,15 +66,15 @@ body {
   opacity: .9;
 }
 
-#home h1 {
+.home h1 {
   size: 6.8em;
 }
 
-#home h2 {
+.home h2 {
   size: 4.8em;
 }
 
-#home h3 {
+.home h3 {
   size: 2.8em;
 }
 /*
