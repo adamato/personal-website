@@ -1,14 +1,22 @@
-#nav-bar {
+body {
+  margin: 0;
+}
+
+#nav {
   color: turquoise;
   margin-bottom: auto;
+  
 }
 
-.nav-link {
+#nav li {
+  display: inline;
   color: white;
-  background-color: indigo;
+  padding: 10px;
+  background-color: gray;
+  border: black, 10px;
 }
 
-#home h1 {
+#main h1 {
   size: 40px;
   color: pink;
   background-color: blue;
