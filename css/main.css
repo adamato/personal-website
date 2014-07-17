@@ -70,13 +70,14 @@ body {
 .main #home_content_1 {
   text-align: center;
   width: 75%;
-  margin: 10px;
+  margin: 25px;
   opacity: .9;
   font-weight: bold;
   margin-top: 610px;
   background-color: white;
   border-radius: 15px;
   height: 475px;
+  position: center;
 }
 /*
 .home h1 {
