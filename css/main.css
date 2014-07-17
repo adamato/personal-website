@@ -40,10 +40,10 @@ body {
 }
 
 .nav span {
-  font-size: 1000px;
+  font-size: 500px;
   color: orange;
   font-weight: bold;
-  line-height: .45em;
+  line-height: .8em;
 }
 
 .nav .pull-right {
