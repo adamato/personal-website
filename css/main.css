@@ -111,7 +111,8 @@ body {
 .social-links {
   float: right;
   margin-right: 20px;
-  padding-bottom: 15px;
+  padding-bottom: auto;
+  padding-top: auto;
 }
 
 .social-links-item {
