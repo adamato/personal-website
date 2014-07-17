@@ -144,4 +144,6 @@ small {
   display: inline;
   width: 359px;
   font-size: 25px;
+  padding-bottom: 0;
+  padding-top: 0;
 }
