@@ -100,16 +100,15 @@ body {
   position: absolute;
   left: 0;
   height: 75px;
+  margin-top: 1000px;
 }
 
 .social-links {
   float: right;
   width:230px;
-  margin-right: 20px;
 }
 
 .social-links-item {
-    float:left;
     height: 10px;
     margin-left: 20px;
     width: 10px;
