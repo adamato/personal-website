@@ -8,9 +8,6 @@ body {
     opacity: 0;
     width: 100%;
 }
-div {
-  border: 1px bold solid black;
-}
 /*---------NAVIGATION BAR-----------------*/
 
 .nav li {
@@ -59,12 +56,13 @@ div {
 /*-----------------MAIN-----------------*/
   
 .main {
-  position: static;
+  position: relative;
   text-align: center;
   padding: 5em;
   height: 10000px;
   background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
   opacity: 0.8;
+  border: 5px, solid, red;
 }
 
 .main #home_content_1 {
