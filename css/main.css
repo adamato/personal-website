@@ -106,27 +106,26 @@ body {
 
 .social-links {
   float: right;
-  width:230px;
-  margin-right: 0px;
+  margin-right: 20px;
 }
 
 .social-links-item {
-  float: left;
+  /*float: left;*/
   height: 10px;
-  margin-left: 20px;
   width: 10px;
   z-index: 4;
-  margin-right: 10px;
+  /*margin-right: 20px;*/
 }
 
 a img {
   border: none;
   outline:none;
-  height: 40px;
-  width: 40px;
+  /*height: 40px;
+  width: 40px;*/
   display: inline-block;
   padding: 5px;
 }
+
 .social-links-item img{
   display:block;
   opacity: 0.6;
