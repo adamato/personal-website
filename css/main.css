@@ -110,7 +110,7 @@ body {
 
 .social-links {
   float: right;
-  margin-right: 0px;
+  margin-right: -20px;
 }
 
 .social-links-item {
