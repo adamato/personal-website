@@ -126,7 +126,6 @@ a img {
   width: 40px;
   display: inline-block;
   padding: 5px;
-  margin-top: 15px;
 }
 .social-links-item img{
   display:block;
@@ -146,9 +145,3 @@ small {
   margin: 0 auto;
 }
 
-    top: 25px;
-    position: relative;
-    display: block;
-    width: 359px;
-    font-size: 11px;
-    margin: 0 auto;} 
