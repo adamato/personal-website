@@ -129,7 +129,6 @@ a img {
   height: 40px;
   width: 40px;
   display: inline-block;
-  /*padding: 5px;*/
 }
 
 .social-links-item img{
@@ -148,5 +147,7 @@ small {
   font-size: 16px;
   position: relative;
   margin: 0 auto;
+  padding-top: 1%;
+  padding-bottom: 2.5%;
 }
 
