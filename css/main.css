@@ -140,7 +140,7 @@ a img {
   transition: opacity 300ms ease-out 0s;
 } 
 
-.global-footer small {
+.footer small {
   display: inline;
   width: 359px;
   font-size: 11px;
