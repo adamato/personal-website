@@ -51,11 +51,15 @@ body {
   float: right;
   margin-right: 25px; /*set margin this way in your custom styesheet*/
 }
+
+
+/*-----------------MAIN-----------------*/
   
 .main {
   text-align: center;
   padding: 5em;
   height: 10000px;
+  background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg') repeat;
 }
 
 .main #home_content_1 {
