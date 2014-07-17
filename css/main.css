@@ -63,7 +63,7 @@ body {
   position: relative;
   text-align: center;
   padding-top: 5em;
-  height: 1500px;
+  height: 1000px;
   background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
 }
 
@@ -74,6 +74,8 @@ body {
   opacity: .9;
   font-weight: bold;
   margin-top: 610px;
+  margin-left: auto;
+  margin-right: auto;
   background-color: white;
   border-radius: 15px;
   height: 475px;
