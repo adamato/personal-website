@@ -59,7 +59,7 @@ body {
   position: relative;
   text-align: center;
   padding: 5em;
-  height: 1000px;
+  height: 1500px;
   background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
 }
 
@@ -69,10 +69,10 @@ body {
   margin: 10px;
   opacity: .9;
   font-weight: bold;
-  margin-top: 650px;
+  margin-top: 625px;
   background-color: white;
   border-radius: 15px;
-  height: 3000px;
+  height: 500px;
 }
 /*
 .home h1 {
