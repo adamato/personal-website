@@ -111,6 +111,7 @@ body {
 .social-links {
   float: right;
   margin-right: 20px;
+  display: inline;
 }
 
 .social-links-item {
@@ -135,7 +136,6 @@ a img {
   display:block;
   opacity: 0.6;
   transition: opacity 300ms ease-out 0s;
-  position: relative;
 }
 .social-links-item img:hover {
   opacity: 1;
