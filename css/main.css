@@ -70,16 +70,16 @@ body {
 .main #home_content_1 {
   text-align: center;
   width: 75%;
-  left: 50%;
+  /*left: 50%;*/
   opacity: .9;
   font-weight: bold;
   margin-top: 610px;
   background-color: white;
   border-radius: 15px;
   height: 475px;
-  position: absolute;
+  /*position: absolute;*/
 }
-/*
+
 .home h1 {
   size: 6.8em;
 }
@@ -91,14 +91,6 @@ body {
 .home h3 {
   size: 2.8em;
 }
-/*
-#home_content_1 {
-  height: 600px;
-  background: black;
-  background: url('http://2.bp.blogspot.com/-Kqg07c5CFFA/UNX-ulFzniI/AAAAAAAASeI/1rlj1XR5qBg/s1600/colorblock+chevron+pattern+blue+sky.jpg') repeat;
-  opacity: .9;
-}*/
-
 
 /*------------FOOTER--------------*/
 .footer {
