@@ -141,7 +141,7 @@ a img {
 } 
 
 .global-footer small {
-  display: block;
+  display: inline;
   width: 359px;
   font-size: 11px;
   margin: auto;
