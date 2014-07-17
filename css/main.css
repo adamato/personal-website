@@ -40,21 +40,21 @@ body {
 }
 
 .nav span {
-  height: 100%;
+  font-size: 1000px;
   color: orange;
   font-weight: bold;
   line-height: .45em;
 }
 
 .nav .pull-right {
-    float: right;
-    margin-right: 25px; /*set margin this way in your custom styesheet*/
+  float: right;
+  margin-right: 25px; /*set margin this way in your custom styesheet*/
 }
   
 .main {
   text-align: center;
-  padding-top: 1.5em;
-  height: 50px;
+  padding: 5em;
+  height: 1000px;
 }
 
 .main #home_content_1 {
