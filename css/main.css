@@ -44,6 +44,10 @@ body {
   color: orange;
   font-weight: bold;
   line-height: .8em;
+  display: block;
+  margin: 0;
+  padding: 0;
+  position: absolute;
 }
 
 .nav .pull-right {
