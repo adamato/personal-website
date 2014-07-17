@@ -42,14 +42,8 @@ body {
 .nav span {
   color: orange;
   font-weight: bold;
-  line-height: .8em;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  top: 0;
-  display: inline;
-  opacity: 0.8;
-  font-size: 200px;
+  font-size: 10000px;
+  line-height: .45em;
 }
 
 .nav .pull-right {
