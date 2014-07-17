@@ -89,3 +89,56 @@ body {
   opacity: .9;
 }*/
 
+
+/*------------FOOTER--------------*/
+.footer {
+  background: #48CCCD;
+  text-align: center;
+  bottom: 0px;
+  color: white;
+  width: 100%;
+  position: fixed;
+}
+
+.social-links {
+  float: right;
+  width:230px;
+  margin-right: 20px;
+}
+
+.social-links-item {
+    float:left;
+    height: 10px;
+    margin-left: 20px;
+    width: 10px;
+    z-index: 4;
+    margin-right: 10px;
+}
+
+a img {
+    border: none;
+    outline:none;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    padding: 5px;
+    margin-top: 15px;
+}
+.social-links-item img{
+    display:block;
+    opacity: 0.6;
+    transition: opacity 300ms ease-out 0s;
+}
+.social-links-item img:hover {
+    opacity: 1;
+    transition: opacity 300ms ease-out 0s;
+} 
+
+.global-footer small {
+    top: 25px;
+    position: relative;
+    display: block;
+    width: 359px;
+    font-size: 11px;
+    margin: 0 auto;
+}
