@@ -37,10 +37,13 @@ body {
 .nav .pull-left {
   float: left;
   margin: 0px;
+}
+
+.nav span {
+  height: 100%;
   color: orange;
   font-weight: bold;
   line-height: .45em;
-  height: 100%;
 }
 
 .nav .pull-right {
