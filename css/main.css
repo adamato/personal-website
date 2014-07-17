@@ -8,6 +8,9 @@ body {
     opacity: 0;
     width: 100%;
 }
+div {
+  border: 1px bold solid black;
+}
 /*---------NAVIGATION BAR-----------------*/
 
 .nav li {
