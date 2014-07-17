@@ -14,7 +14,7 @@ body {
 }
 
 .nav {
-  position: fixed;
+  position: absolute;
   margin: 0;
   background: #48CCCD;
   z-index: 3;
@@ -56,6 +56,7 @@ body {
 /*-----------------MAIN-----------------*/
   
 .main {
+  position: static;
   text-align: center;
   padding: 5em;
   height: 10000px;
@@ -63,13 +64,14 @@ body {
 }
 
 .main #home_content_1 {
-  background-color: grey;
   text-align: center;
   width: 100%;
   margin: 10px;
   opacity: .9;
+  color: white;
+  font-weight: bold;
 }
-
+/*
 .home h1 {
   size: 6.8em;
 }
