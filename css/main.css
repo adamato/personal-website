@@ -17,10 +17,6 @@ body {
   opacity: 0.8;
 }
 
-.nav li {
-  display: inline;
-}
-
 .nav a {
   font-size: 18px;
   font-weight: bold;
@@ -33,22 +29,22 @@ body {
   color: white;
 }
 
-.nav .pull-left {
+.pull-left {
   float: left;
   margin: 0px;
   color: orange;
-  font-size: 1.5em;
   font-weight: bold;
+  line-height: .45em;
 }
 
-.nav .pull-right {
+.pull-right {
     float: right;
     margin-right: 25px; /*set margin this way in your custom styesheet*/
 }
   
 .main {
   text-align: center;
-  pdding-top: 1.5em;
+  padding-top: 1.5em;
   height: 50px;
 }
 
