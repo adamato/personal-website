@@ -19,7 +19,6 @@ body {
   background: #48CCCD;
   z-index: 3;
   width: 100%;
-  /*opacity: 0.8;*/
 }
 
 .nav a {
@@ -60,6 +59,7 @@ body {
   padding: 5em;
   height: 10000px;
   background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
+  opacity: 0.8;
 }
 
 .main #home_content_1 {
