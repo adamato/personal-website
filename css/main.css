@@ -103,6 +103,7 @@ body {
   height: 75px;
   z-index:3;
   margin: 0;
+  text-align: center;
 }
 
 .social-links {
@@ -140,11 +141,8 @@ a img {
 } 
 
 .global-footer small {
-  top: 25px;
-  position: relative;
   display: block;
   width: 359px;
   font-size: 11px;
   margin: auto;
-  text-align: center;
 }
