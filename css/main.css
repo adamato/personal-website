@@ -60,10 +60,8 @@ body {
   position: relative;
   text-align: center;
   padding: 5em;
-  height: 500px;
+  height: 1000px;
   background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
-  opacity: 0.8;
-  border: 5px, solid, red;
 }
 
 .main #home_content_1 {
@@ -72,7 +70,9 @@ body {
   margin: 10px;
   opacity: .9;
   font-weight: bold;
-  margin-top: 200px;
+  margin-top: 450px;
+  background-color: white;
+  border-radius: 15px;
 }
 /*
 .home h1 {
