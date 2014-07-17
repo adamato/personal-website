@@ -34,7 +34,7 @@ body {
   color: white;
 }
 
-.pull-left {
+.nav .pull-left {
   float: left;
   margin: 0px;
   color: orange;
@@ -42,7 +42,7 @@ body {
   line-height: .45em;
 }
 
-.pull-right {
+.nav .pull-right {
     float: right;
     margin-right: 25px; /*set margin this way in your custom styesheet*/
 }
