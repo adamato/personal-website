@@ -21,6 +21,7 @@ body {
   z-index: 3;
   width: 100%;
   overflow: hidden;
+  opacity: .8;
 }
 
 .nav a {
