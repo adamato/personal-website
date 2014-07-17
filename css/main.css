@@ -109,6 +109,7 @@ body {
 }
 
 .social-links-item {
+  float: left;
     height: 10px;
     margin-left: 20px;
     width: 10px;
