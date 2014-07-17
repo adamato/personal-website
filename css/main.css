@@ -8,6 +8,11 @@ body {
     width: 100%;
 }
 /*---------NAVIGATION BAR-----------------*/
+
+.nav li {
+  display: inline;
+}
+
 .nav {
   position: fixed;
   margin: 0;
