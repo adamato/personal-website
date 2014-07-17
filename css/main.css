@@ -40,7 +40,6 @@ body {
 }
 
 .nav span {
-  font-size: 250px;
   color: orange;
   font-weight: bold;
   line-height: .8em;
@@ -49,6 +48,8 @@ body {
   overflow: hidden;
   top: 0;
   display: inline;
+  opacity: 0.8;
+  height: 100%;
 }
 
 .nav .pull-right {
