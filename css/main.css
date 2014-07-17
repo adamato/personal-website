@@ -97,8 +97,9 @@ body {
   bottom: 0;
   color: white;
   width: 100%;
-  position: fixed;
+  position: absolute;
   left: 0;
+  right: 0;
   height: 75px;
   z-index:3;
 }
@@ -111,37 +112,38 @@ body {
 
 .social-links-item {
   float: left;
-    height: 10px;
-    margin-left: 20px;
-    width: 10px;
-    z-index: 4;
-    margin-right: 10px;
+  height: 10px;
+  margin-left: 20px;
+  width: 10px;
+  z-index: 4;
+  margin-right: 10px;
 }
 
 a img {
-    border: none;
-    outline:none;
-    height: 40px;
-    width: 40px;
-    display: inline-block;
-    padding: 5px;
-    margin-top: 15px;
+  border: none;
+  outline:none;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  padding: 5px;
+  margin-top: 15px;
 }
 .social-links-item img{
-    display:block;
-    opacity: 0.6;
-    transition: opacity 300ms ease-out 0s;
+  display:block;
+  opacity: 0.6;
+  transition: opacity 300ms ease-out 0s;
 }
 .social-links-item img:hover {
-    opacity: 1;
-    transition: opacity 300ms ease-out 0s;
+  opacity: 1;
+  transition: opacity 300ms ease-out 0s;
 } 
 
 .global-footer small {
-    top: 25px;
-    position: relative;
-    display: block;
-    width: 359px;
-    font-size: 11px;
-    margin: 0 auto;
+  top: 25px;
+  position: relative;
+  display: block;
+  width: 359px;
+  font-size: 11px;
+  margin: auto;
+  text-align: center;
 }
