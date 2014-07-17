@@ -44,7 +44,6 @@ body {
   color: orange;
   font-weight: bold;
   line-height: .45em;
-  opacity: 0.8em;
 }
 
 .nav .pull-right {
@@ -60,7 +59,7 @@ body {
   text-align: center;
   padding: 5em;
   height: 10000px;
-  background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg') repeat;
+  background-image:url('http://thumbs.dreamstime.com/x/crazy-summer-orange-teal-damask-background-14702403.jpg');
 }
 
 .main #home_content_1 {
@@ -68,7 +67,6 @@ body {
   width: 100%;
   margin: 10px;
   opacity: .9;
-  color: white;
   font-weight: bold;
 }
 /*
